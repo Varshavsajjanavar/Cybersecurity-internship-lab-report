@@ -22,6 +22,4 @@ Kali Linux, Nmap, Metasploit, Burp Suite, Wireshark, OpenVAS/GVM, DVWA, OWASP Ju
 
 All testing was done on my own virtual machines and intentionally vulnerable training targets. No client or real-world systems were tested. For educational purposes only.
 
-## Contact
 
-<Your Name> | [LinkedIn](https://www.linkedin.com/in/your-profile)
